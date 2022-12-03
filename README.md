@@ -2,7 +2,7 @@
 
 I am Software Engineer from Gujranwala, Pakistan. I'm currently working as freelancer working with so many clients from different countries. I am having 4+ years of experience working on different projects and websites.
 
-Please check my [portfolio](https://umairtipu.github.io/)
+Please have a look on my [portfolio](https://umairtipu.github.io/)
 <!--
 **umairtipu/umairtipu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

@@ -55,6 +55,25 @@ I don't just write code — I solve business problems.
 
 ---
 
+## 💼 Upwork Profile
+
+Looking to work with me on your next project?
+
+You can view my complete freelance profile, client feedback, work history, and successfully completed projects on Upwork:
+
+👉 **[View My Upwork Profile](https://upwork.com/freelancers/umairarshad)**
+
+**Upwork Highlights:**
+- 🏆 **100% Job Success Score**
+- ⭐ **5-Star Rated**
+- 🚀 **16 Completed Projects**
+- 🌍 Experience working with clients worldwide
+- 💻 Full-Stack Web Development & Custom Software Solutions
+
+[**Hire me on Upwork →**](https://upwork.com/freelancers/umairarshad)
+
+---
+
 ## 💼 What I Can Build For You
 
 - **Custom Web Applications** — Scalable, secure, full-stack apps tailored to your business logic
